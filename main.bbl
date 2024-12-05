@@ -1,0 +1,39 @@
+\begin{thebibliography}{6}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Asai and Choi(2021)}]{informationseeking}
+Akari Asai and Eunsol Choi. 2021.
+\newblock \href {https://aclanthology.org/2021.acl-long.118} {Challenges in information-seeking qa: Unanswerable questions and paragraph retrieval}.
+\newblock In \emph{Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)}, page 1492–1504, Online. Association for Computational Linguistics.
+\newblock Accessed: 2024-12-02.
+
+\bibitem[{Hao et~al.(2020)Hao, Ke et~al.}]{Hao2020}
+Hao, Ke, et~al. 2020.
+\newblock \href {https://arxiv.org/abs/2401.09044} {Algorithmic amplification of biases on google search}.
+\newblock Accessed: 2024-12-02.
+
+\bibitem[{Najoung~Kim et~al.(2023)Najoung~Kim, Bowman, and Petty}]{questionanswering}
+Phu Mon~Htut Najoung~Kim, Samuel~R. Bowman, and Jackson Petty. 2023.
+\newblock \href {https://aclanthology.org/2023.acl-long.472} {Question-answering with questionable assumptions}.
+\newblock In \emph{Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)}, page 8466–8487, Toronto, Canada. Association for Computational Linguistics.
+\newblock Accessed: 2024-12-02.
+
+\bibitem[{Rajpurkar et~al.(2018)Rajpurkar, Jia, and Liang}]{knowwhatyoudont}
+Pranav Rajpurkar, Robin Jia, and Percy Liang. 2018.
+\newblock \href {https://aclanthology.org/P18-2124} {Know what you don’t know: Unanswerable questions}.
+\newblock In \emph{Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)}, pages 784--789, Melbourne, Australia. Association for Computational Linguistics.
+\newblock Accessed: 2024-12-02.
+
+\bibitem[{Sulem et~al.(2021)Sulem, Hay, and Dan}]{sulem2021}
+Elior Sulem, Jamaal Hay, and Roth Dan. 2021.
+\newblock \href {https://aclanthology.org/2021.findings-emnlp.385} {Do we know what we don’t know? studying unanswerable questions beyond squad 2.0}.
+\newblock In \emph{Findings of the Association for Computational Linguistics: EMNLP 2021}, page 4543–4548, Punta Cana, Dominican Republic. Association for Computational Linguistics.
+\newblock Accessed: 2024-12-02.
+
+\bibitem[{Tran et~al.(2023)Tran, Do, Le, and Kretchmar}]{impactsofunanswerable}
+Son~Quoc Tran, Phong Nguyen-Thuan Do, Uyen Le, and Matt Kretchmar. 2023.
+\newblock \href {https://aclanthology.org/2023.eacl-main.113} {The impacts of unanswerable questions on the robustness of machine reading comprehension models}.
+\newblock In \emph{Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics}, page 1543–1557, Dubrovnik, Croatia. Association for Computational Linguistics.
+\newblock Accessed: 2024-12-02.
+
+\end{thebibliography}
